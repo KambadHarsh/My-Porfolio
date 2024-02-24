@@ -234,10 +234,10 @@ main{
     border-radius: 3px;
 }
 #about .divider ~p{
-    color: var(--textColor);
-    font-size: 15px;
+    color: var(--themeColor);
+    font-size: 20px;
     letter-spacing: 0.4px;
-    font-weight: 400;
+    font-weight: 600;
     margin-top: 15px;
 }
 

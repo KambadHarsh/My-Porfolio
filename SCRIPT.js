@@ -9,7 +9,7 @@ this.classList.toggle('fa-xmark')
 
 //  typing effect
  let typed = new Typed('.auto-input',{ 
-   strings: ['0','Web-Developer!','Front-End Developer'],
+   strings: ['0','Data Analyst!'],
    typeSpeed:100,
    backSpeed:100,
    backDelay: 2000,
